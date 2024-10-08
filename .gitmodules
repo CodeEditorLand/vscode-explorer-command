@@ -1,7 +1,6 @@
 [submodule "node-gyp"]
-path = node-gyp
-url = ssh://git@github.com/CodeEditorLand/NodeGYP.git
-
+	path = node-gyp
+	url = https://github.com/nodejs/node-gyp
 [submodule "deps/wil"]
-path = deps/wil
-url = ssh://git@github.com/CodeEditorLand/Wil.git
+	path = deps/wil
+	url = https://github.com/microsoft/wil
